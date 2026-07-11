@@ -1,0 +1,14 @@
+# Large datasets
+*.csv
+*.parquet
+*.feather
+
+# Numpy arrays
+*.npy
+
+# Models
+*.pkl
+*.joblib
+
+# Jupyter temporary files
+.ipynb_checkpoints/

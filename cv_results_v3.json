@@ -1,47 +1,47 @@
 {
   "fold_1": {
     "crew": 1,
-    "log_loss": 0.6732626378664159,
-    "best_iter": 55
+    "log_loss": 0.6478774324714736,
+    "best_iter": 172
   },
   "fold_2": {
     "crew": 2,
-    "log_loss": 0.8216506203243332,
-    "best_iter": 30
+    "log_loss": 0.8074892105799815,
+    "best_iter": 108
   },
   "fold_3": {
     "crew": 3,
-    "log_loss": 0.9158349617969288,
-    "best_iter": 2
+    "log_loss": 0.9203123101327199,
+    "best_iter": 1
   },
   "fold_4": {
     "crew": 4,
-    "log_loss": 0.8589913028902425,
-    "best_iter": 10
+    "log_loss": 0.8748802838108137,
+    "best_iter": 29
   },
   "fold_5": {
     "crew": 5,
-    "log_loss": 0.872595225697366,
-    "best_iter": 23
+    "log_loss": 0.8802290536803131,
+    "best_iter": 30
   },
   "fold_6": {
     "crew": 6,
-    "log_loss": 0.5564399272042869,
-    "best_iter": 89
+    "log_loss": 0.5592991282672978,
+    "best_iter": 200
   },
   "fold_7": {
     "crew": 7,
-    "log_loss": 0.7943589060011017,
-    "best_iter": 54
+    "log_loss": 0.774480970254189,
+    "best_iter": 176
   },
   "fold_8": {
     "crew": 8,
-    "log_loss": 0.8149379567780403,
-    "best_iter": 44
+    "log_loss": 0.8274747371442892,
+    "best_iter": 87
   },
   "fold_9": {
     "crew": 13,
-    "log_loss": 0.8432443503635654,
-    "best_iter": 24
+    "log_loss": 0.8419768866254237,
+    "best_iter": 87
   }
 }
